@@ -1,0 +1,4 @@
+﻿  Math Game.cpp
+E:\source\C++ repos\2 Game Projects\Math Game\Math Game\Math Game.cpp(39): warning C4715: 'GetOpTypeSymbol': not all control paths return a value
+E:\source\C++ repos\2 Game Projects\Math Game\Math Game\Math Game.cpp(154): warning C4715: 'SimpleCalculator': not all control paths return a value
+  Math Game.vcxproj -> E:\source\C++ repos\2 Game Projects\Math Game\x64\Debug\Math Game.exe
